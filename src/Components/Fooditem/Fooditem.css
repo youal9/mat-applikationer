@@ -12,10 +12,10 @@
   box-shadow: 20px 10px 10px 0px rgba(175, 172, 172, 0.18);
 }
 
-.food-item h3 {
+.food-item h4 {
   font-size: 1.2rem;
   margin-bottom: 8px;
-  color: beige;
+  color: rgb(0, 0, 0);
 }
 
 .food-item img {
