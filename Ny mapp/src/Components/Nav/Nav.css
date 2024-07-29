@@ -1,0 +1,10 @@
+.nav{
+   background-color: brown; 
+   color: rgb(255, 140, 0);
+   padding: 50px;
+   box-shadow: 20px 10px 10px 0px rgba(0,0,0,0.75);
+}
+.nav h1{
+ text-align: center;
+ margin:auto ;
+}

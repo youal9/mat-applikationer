@@ -1,0 +1,14 @@
+.search{
+margin:20px auto ;
+
+width: 300px;
+text-align: center;
+}
+.input{
+  margin-bottom: 20px;  
+  width: 100%;
+}
+button:disabled {
+    pointer-events: none;
+    opacity: 0.4;
+}

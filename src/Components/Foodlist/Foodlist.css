@@ -1,0 +1,19 @@
+.food-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;  /* Centrera elementen horisontellt */
+    align-items: flex-start;  /* Justera elementen till toppen */
+    gap: 16px;  /* Lägg till utrymme mellan elementen */
+    width: 100%;
+    padding: 20px;
+}
+
+  @media (max-width: 600px){
+    .food-list{
+       
+        flex-direction: column;
+        align-items: center;
+    }
+  }
+  
+  

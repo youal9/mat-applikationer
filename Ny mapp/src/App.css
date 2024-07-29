@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://st3.depositphotos.com/1558912/19061/i/1600/depositphotos_190618708-stock-photo-italian-food-background-on-white.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width:  100%; /* Sätt höjden till 100% av vyhöjden */
+  
+    
+}

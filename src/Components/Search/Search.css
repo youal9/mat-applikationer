@@ -1,0 +1,28 @@
+.search{
+margin:20px auto ;
+
+width: 300px;
+text-align: center;
+}
+.input{
+  margin-bottom: 20px;  
+  width: 100%;
+}
+button:disabled {
+    pointer-events: none;
+    opacity: 0.4;
+}
+.searchError {
+  color: rgb(255, 6, 6); /* Ändra färgen här till vad du vill */
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+@media (max-width: 600px){
+  .searchError {
+    font-size: 40px;
+   font-style: italic;
+   color: rgb(51, 255, 0);
+  }
+}

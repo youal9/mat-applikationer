@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://wallpapers.com/images/hd/lovely-food-cooking-photography-z079lna4fglazkmi.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width:  100%; /* Sätt höjden till 100% av vyhöjden */
+    
+  
+    
+}
