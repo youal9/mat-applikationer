@@ -51,6 +51,18 @@ button:hover {
   width: 100%;
 }
 
+@media (max-width: 1020px){
+  .food-item  {
+    width: 250px;
+   
+   
+  }
+  .food-item img {
+    width: 100%;
+    height: auto;
+}
+}
+
 @media (max-width: 600px) {
   .food-item {
       width: 90%;
