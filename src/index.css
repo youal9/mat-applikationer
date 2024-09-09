@@ -3,13 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.835), rgba(255, 123, 0, 0.766));
-    min-height: 100vh; 
-    background-size: cover; 
-    background-repeat: no-repeat; 
-    background-attachment: fixed; 
-}
+
     
   
     
