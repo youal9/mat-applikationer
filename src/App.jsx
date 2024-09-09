@@ -12,6 +12,7 @@ function App() {
 
   return (
     <div>
+      <div className="background-image"></div>
      <Nav/> 
     <Search foodData={foodData} setFoodData={setFoodData}/>
     <Foodlist  foodData={foodData} />

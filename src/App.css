@@ -1,0 +1,12 @@
+.background-image {
+    position: fixed; /* Fixera bakgrunden så att den inte rör sig vid scrollning */
+    top: 0;
+    left: 0;
+    width: 100vw; /* 100% av viewport width */
+    height: 100vh; /* 100% av viewport height */
+    background-image: url('../src/assets/food.jpg'); /* Ändra till din bilds sökväg */
+    background-size: cover; /* För att täcka hela skärmen */
+    background-position: center; /* Centrerar bilden */
+    background-repeat: no-repeat; /* Förhindrar upprepning */
+    z-index: -1; /* Lägg den bakom allt annat innehåll */
+  }
